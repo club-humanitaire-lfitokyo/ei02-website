@@ -1,3 +1,13 @@
 .navbar {
-  background-color : #38d4f4;
+  background-color: #38d4f4;
+}
+
+.navbar-nav .nav-link,
+.navbar-brand,
+.dropdown-item {
+  color: white !important;
+}
+
+.dropdown-menu {
+  background-color: #38d4f4;
 }
