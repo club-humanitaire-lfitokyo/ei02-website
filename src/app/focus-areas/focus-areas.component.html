@@ -1,0 +1,14 @@
+<div class="container-fluid min-vh-100">
+  <h1>Focus Areas</h1>
+  <p></p>
+
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-4" *ngFor="let focusArea of focusAreasList">
+        <app-focus-area [focusArea]="focusArea"></app-focus-area>
+      </div>
+    </div>
+  </div>
+
+
+</div>
