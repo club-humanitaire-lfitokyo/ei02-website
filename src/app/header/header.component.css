@@ -27,11 +27,14 @@
 .navbar-nav .nav-link,
 .navbar-brand,
 .dropdown-item {
-  color: white !important;
+  color: white;
 }
 
 .dropdown-menu {
   background-color: #38d4f4;
 }
 
-
+.donate-item {
+  background-color: white;
+  border-radius: 5px;
+}

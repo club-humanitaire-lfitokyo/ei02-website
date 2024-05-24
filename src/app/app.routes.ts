@@ -9,6 +9,7 @@ import {EnvironmentComponent} from "./focus-areas/pages/environment/environment.
 import {LocalsComponent} from "./focus-areas/pages/locals/locals.component";
 import {ChildrenComponent} from "./focus-areas/pages/children/children.component";
 import {AnimalsComponent} from "./focus-areas/pages/animals/animals.component";
+import {DonateComponent} from "./donate/donate.component";
 
 export const routes: Routes = [
   {path: '', component: HomeComponent},
@@ -20,5 +21,6 @@ export const routes: Routes = [
   {path: 'focus-areas/environment', component: EnvironmentComponent},
   {path: 'focus-areas/locals', component: LocalsComponent},
   {path: 'focus-areas/children', component: ChildrenComponent},
-  {path: 'focus-areas/animals', component: AnimalsComponent}
+  {path: 'focus-areas/animals', component: AnimalsComponent},
+  {path: 'donate', component: DonateComponent}
 ];
