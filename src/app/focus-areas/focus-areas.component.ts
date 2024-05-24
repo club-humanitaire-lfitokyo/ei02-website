@@ -15,16 +15,11 @@ import {NgForOf} from "@angular/common";
 })
 export class FocusAreasComponent {
   focusAreasList: FocusArea[] = [
-    new FocusArea('Test', 'lorem', '/assets/images/test.jpg', ''),
-    new FocusArea('Test', 'lorem', '/assets/images/test.jpg', ''),
-    new FocusArea('Test', 'lorem', '/assets/images/test.jpg', ''),
-    new FocusArea('Test', 'lorem', '/assets/images/test.jpg', ''),
-    new FocusArea('Test', 'lorem', '/assets/images/test.jpg', ''),
-    new FocusArea('Test', 'lorem', '/assets/images/test.jpg', ''),
-    new FocusArea('Test', 'lorem', '/assets/images/test.jpg', ''),
-    new FocusArea('Test', 'lorem', '/assets/images/test.jpg', ''),
-    new FocusArea('Test', 'lorem', '/assets/images/test.jpg', ''),
-    new FocusArea('Test', 'lorem', '/assets/images/test.jpg', ''),
-    new FocusArea('Test', 'lorem', '/assets/images/test.jpg', '')
+    new FocusArea('Education', 'lorem', '/assets/images/test.jpg', 'focus-areas/education'),
+    new FocusArea('Environment', 'lorem', '/assets/images/test.jpg', 'focus-areas/environment'),
+    new FocusArea('Children', 'lorem', '/assets/images/test.jpg', 'focus-areas/children'),
+    new FocusArea('Locals', 'lorem', '/assets/images/test.jpg', 'focus-areas/locals'),
+    new FocusArea('Outside of Japan', 'lorem', '/assets/images/test.jpg', 'focus-areas/outside-of-japan'),
+    new FocusArea('Animals', 'lorem', '/assets/images/test.jpg', 'focus-areas/animals'),
   ]
 }

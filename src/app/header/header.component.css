@@ -2,6 +2,28 @@
   background-color: #38d4f4;
 }
 
+.education {
+  background-color: #3486f2;
+}
+.outside-of-japan {
+  background-color: #b365f2;
+}
+
+.environment {
+  background-color: #509c0d;
+}
+
+.locals {
+  background-color: #ff8630;
+}
+
+.children {
+  background-color: #f079b5;
+}
+
+.animals {
+  background-color: #26a964;
+}
 .navbar-nav .nav-link,
 .navbar-brand,
 .dropdown-item {

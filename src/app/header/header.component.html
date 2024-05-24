@@ -1,7 +1,17 @@
-<nav class="navbar navbar-expand-lg">
+<nav class="navbar navbar-expand-lg"
+     [ngClass]="{
+     'education': currentRoute === '/focus-areas/education',
+     'outside-of-japan': currentRoute === '/focus-areas/outside-of-japan',
+     'environment' : currentRoute === '/focus-areas/environment',
+     'locals' : currentRoute === '/focus-areas/locals',
+     'children' : currentRoute === '/focus-areas/children',
+     'animals' : currentRoute === '/focus-areas/animals'
+     }"
+>
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">
-      Club Humanitaire
+    <a class="navbar-brand d-flex align-items-center" routerLink="/">
+      <img src="assets/images/logov3.png" alt="Logo" width="40" height="40" class="d-inline-block align-text-top">
+      <span class="ms-2">LFIT's Humanitarian Club</span>
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
