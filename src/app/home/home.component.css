@@ -2,3 +2,9 @@
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   border-radius: 25px;
 }
+
+/* Style for the image on smaller devices */
+.d-lg-none img {
+  width: 100%;
+  height: auto;
+}
