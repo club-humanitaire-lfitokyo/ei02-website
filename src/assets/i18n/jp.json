@@ -81,41 +81,51 @@
   "take-action": {
     "title": "寄付する／ボランティア",
     "education" : {
+      "section-title": "教育",
       "box1" : {
+        "title" : "",
         "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
         "link-text" : "",
         "text" : "若者の心を育む教育イニシアチブを支援しましょう。皆様のご寄付は、奨学金やリソースを必要とする学生への提供に役立ち、将来のリーダーやイノベーターを育成します。私たちと一緒に、より明るく、より教育的な明日を作りましょう。"
       },
       "box2" : {
+        "title" : "",
         "link" : "https://learningforall.or.jp/support/credit2/entry/",
         "link-text" : "",
         "text" : "ラーニング・フォー・オールは、子どもたちのバックグラウンドにかかわらず、すべての子どもたちが質の高い教育を受けられるようにすることを目的としています。あなたの寄付は、障壁を取り除き、恵まれない生徒たちに重要なサポートを提供するのに役立ちます。誰もが教育を受けられるようにする運動の一翼を担ってください。"
       },
       "box3" : {
+        "title" : "",
         "link" : "https://cwaj.org/jp/cwaj-donation/",
         "link-text" : "",
         "text" : "女性の教育とエンパワーメントの未来に投資しましょう。CWAJ の奨学金とプログラムは、女性が学問の夢を追求するための重要な機会を提供しています。次世代の女性リーダーや変革者を支援するために、今すぐご寄付ください。"
       }
     },
     "environment" : {
+      "section-title": "環境",
       "box1" : {
+        "title" : "",
         "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
         "link-text" : "",
         "text" : "Support educational initiatives that empower young minds to thrive. Your contribution helps provide scholarships and resources to students in need, fostering future leaders and innovators. Join us in creating a brighter, more educated tomorrow."
       },
       "box2" : {
+        "title" : "",
         "link" : "https://learningforall.or.jp/support-4-en/",
         "link-text" : "",
         "text" : "Learning for All is dedicated to ensuring every child has access to quality education, regardless of their background. Your donation helps break down barriers and provides vital support to underprivileged students. Be part of the movement to make education accessible to everyone."
       },
       "box3" : {
+        "title" : "",
         "link" : "https://cwaj.org/donation/",
         "link-text" : "",
         "text" : "Invest in the future of women’s education and empowerment. CWAJ scholarships and programs provide crucial opportunities for women to pursue their academic dreams. Donate today to support the next generation of female leaders and change-makers."
       }
     },
     "children" : {
+      "section-title": "子供たち",
       "box1" : {
+        "title" : "",
         "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
         "link-text" : "",
         "text" : "Support educational initiatives that empower young minds to thrive. Your contribution helps provide scholarships and resources to students in need, fostering future leaders and innovators. Join us in creating a brighter, more educated tomorrow."
@@ -132,6 +142,7 @@
       }
     },
     "locals" : {
+      "section-title": "地元支援",
       "box1" : {
         "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
         "link-text" : "",
@@ -149,6 +160,7 @@
       }
     },
     "outside-of-japan" : {
+      "section-title": "海外",
       "box1" : {
         "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
         "link-text" : "",
@@ -166,6 +178,7 @@
       }
     },
     "animals" : {
+      "section-title": "動物",
       "box1" : {
         "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
         "link-text" : "",

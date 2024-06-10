@@ -81,6 +81,7 @@
   "take-action": {
     "title": "Take Action !",
     "education" : {
+      "section-title": "education",
       "box1" : {
         "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
         "link-text" : "",
@@ -98,6 +99,7 @@
       }
     },
     "environment" : {
+      "section-title": "education",
       "box1" : {
         "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
         "link-text" : "",
@@ -115,6 +117,7 @@
       }
     },
     "children" : {
+      "section-title": "education",
       "box1" : {
         "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
         "link-text" : "",
@@ -132,6 +135,7 @@
       }
     },
     "locals" : {
+      "section-title": "education",
       "box1" : {
         "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
         "link-text" : "",
@@ -149,6 +153,7 @@
       }
     },
     "outside-of-japan" : {
+      "section-title": "education",
       "box1" : {
         "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
         "link-text" : "",
@@ -166,6 +171,7 @@
       }
     },
     "animals" : {
+      "section-title": "education",
       "box1" : {
         "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
         "link-text" : "",
