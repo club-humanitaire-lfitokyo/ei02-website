@@ -79,131 +79,131 @@
     }
   },
   "take-action": {
-    "title": "Take Action !",
+    "title": "S'engager !",
     "education" : {
-      "section-title": "education",
+      "section-title": "Éducation",
       "box1" : {
-        "title" : "",
+        "title" : "Birthday Donation",
         "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
-        "link-text" : "",
-        "text" : "Support educational initiatives that empower young minds to thrive. Your contribution helps provide scholarships and resources to students in need, fostering future leaders and innovators. Join us in creating a brighter, more educated tomorrow."
+        "link-text" : "Faire un don",
+        "text" : "Soutenez les initiatives éducatives qui permettent aux jeunes esprits de s'épanouir. Votre contribution permet d'offrir des bourses et des ressources aux étudiants dans le besoin, favorisant ainsi l'émergence de futurs leaders et innovateurs. Rejoignez-nous pour créer un avenir plus lumineux."
       },
       "box2" : {
-        "title" : "",
+        "title" : "Learning for all",
         "link" : "https://learningforall.or.jp/support-4-en/",
-        "link-text" : "",
-        "text" : "Learning for All is dedicated to ensuring every child has access to quality education, regardless of their background. Your donation helps break down barriers and provides vital support to underprivileged students. Be part of the movement to make education accessible to everyone."
+        "link-text" : "Faire un don",
+        "text" : "Learning for all a pour mission de veiller à ce que chaque enfant ait accès à une éducation de qualité, quel que soit son milieu d'origine. Votre don contribue à lever les barrières et à apporter un soutien vital aux élèves défavorisés. Participez au mouvement visant à rendre l'éducation accessible à tous."
       },
       "box3" : {
-        "title" : "",
+        "title" : "CWAJ",
         "link" : "https://cwaj.org/donation/",
-        "link-text" : "",
-        "text" : "Invest in the future of women’s education and empowerment. CWAJ scholarships and programs provide crucial opportunities for women to pursue their academic dreams. Donate today to support the next generation of female leaders and change-makers."
+        "link-text" : "Faire un don",
+        "text" : "Investissez dans l'avenir de l'éducation et de l'enracinement des femmes. Les bourses et les programmes du CWAJ offrent aux femmes des opportunités cruciales de poursuivre leurs rêves académiques. Faites un don aujourd'hui pour soutenir la prochaine génération de femmes leaders et de personnes capables de changer les choses."
       }
     },
     "environment" : {
-      "section-title": "education",
+      "section-title": "Environnement",
       "box1" : {
-        "title" : "",
-        "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
-        "link-text" : "",
-        "text" : "Support educational initiatives that empower young minds to thrive. Your contribution helps provide scholarships and resources to students in need, fostering future leaders and innovators. Join us in creating a brighter, more educated tomorrow."
+        "title" : "WWF",
+        "link" : "https://wwf.panda.org/",
+        "link-text" : "Faire un don",
+        "text" : "Rejoignez le WWF dans la lutte pour la protection des espèces et des habitats les plus vulnérables de notre planète. Votre soutien permet de financer des projets de conservation essentiels dans le monde entier. Aidez-nous à construire un avenir durable pour les hommes et la nature."
       },
       "box2" : {
-        "title" : "",
-        "link" : "https://learningforall.or.jp/support-4-en/",
-        "link-text" : "",
-        "text" : "Learning for All is dedicated to ensuring every child has access to quality education, regardless of their background. Your donation helps break down barriers and provides vital support to underprivileged students. Be part of the movement to make education accessible to everyone."
+        "title" : "JWCS",
+        "link" : "https://www.jwcs.org/en/donation/",
+        "link-text" : "Faire un don",
+        "text" : "Protégez la faune et les paysages naturels uniques du Japon en soutenant la JWCS. Vos dons contribuent directement aux efforts de conservation et à la défense des espèces menacées. Devenez un gardien de la nature dès aujourd'hui."
       },
       "box3" : {
-        "title" : "",
-        "link" : "https://cwaj.org/donation/",
-        "link-text" : "",
-        "text" : "Invest in the future of women’s education and empowerment. CWAJ scholarships and programs provide crucial opportunities for women to pursue their academic dreams. Donate today to support the next generation of female leaders and change-makers."
+        "title" : "FoE",
+        "link" : "https://foejapan.org/en/",
+        "link-text" : "Faire du bénévolat",
+        "text" : "FoE défendent des solutions durables et équitables pour relever les défis environnementaux. Votre contribution permet de soutenir des mouvements et des initiatives locales qui promeuvent la justice environnementale. Soyez à nos côtés pour préserver notre planète pour les générations futures."
       }
     },
     "children" : {
-      "section-title": "education",
+      "section-title": "Enfants",
       "box1" : {
-        "title" : "",
-        "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
-        "link-text" : "",
-        "text" : "Support educational initiatives that empower young minds to thrive. Your contribution helps provide scholarships and resources to students in need, fostering future leaders and innovators. Join us in creating a brighter, more educated tomorrow."
+        "title" : "UNICEF",
+        "link" : "https://www.unicef.org/",
+        "link-text" : "Faire un don",
+        "text" : "L'UNICEF se consacre à l'amélioration de la vie des enfants dans le monde entier grâce à des initiatives dans les domaines de la santé, de l'éducation et de la protection. Votre don peut faire une différence significative en garantissant que chaque enfant ait la chance de grandir en sécurité, en bonne santé et de recevoir une éducation. Rejoignez-nous pour créer un monde meilleur pour les enfants du monde entier."
       },
       "box2" : {
-        "title" : "",
-        "link" : "https://learningforall.or.jp/support-4-en/",
-        "link-text" : "",
-        "text" : "Learning for All is dedicated to ensuring every child has access to quality education, regardless of their background. Your donation helps break down barriers and provides vital support to underprivileged students. Be part of the movement to make education accessible to everyone."
+        "title" : "Birthday Donation",
+        "link" : "https://ec.philanthropy.or.jp/products/list?category_id=15&birthday",
+        "link-text" : "Faire un don",
+        "text" : "Soutenez le bien-être et le développement des enfants au Japon. Votre générosité finance des programmes qui fournissent des soins essentiels, une éducation et des services de soutien aux enfants dans le besoin. Aidez-nous à développer le potentiel de chaque enfant."
       },
       "box3" : {
-        "title" : "",
-        "link" : "https://cwaj.org/donation/",
-        "link-text" : "",
-        "text" : "Invest in the future of women’s education and empowerment. CWAJ scholarships and programs provide crucial opportunities for women to pursue their academic dreams. Donate today to support the next generation of female leaders and change-makers."
+        "title" : "association soutenant les enfants du Japon",
+        "link" : "https://congrant.com/project/npojcsa/173/form/step1",
+        "link-text" : "Faire un don",
+        "text" : "Le Comité japonais pour l'UNICEF (JCSA) travaille sans relâche pour soutenir les enfants vulnérables à la fois dans le pays et dans le monde. Votre don permet de fournir des ressources et des services essentiels pour améliorer la vie des enfants. Ensemble, nous pouvons avoir un impact durable sur l'avenir des enfants."
       }
     },
     "locals" : {
-      "section-title": "education",
+      "section-title": "Communautés locales",
       "box1" : {
-        "title" : "",
-        "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
-        "link-text" : "",
-        "text" : "Support educational initiatives that empower young minds to thrive. Your contribution helps provide scholarships and resources to students in need, fostering future leaders and innovators. Join us in creating a brighter, more educated tomorrow."
+        "title" : "Croix Rouge Japon",
+        "link" : "https://www.jrc.or.jp/english/Faire un don/",
+        "link-text" : "Faire un don",
+        "text": "La Croix-Rouge japonaise s'est engagée à fournir des secours d'urgence et un soutien communautaire dans tout le Japon. Votre don permet d'apporter une aide vitale aux personnes touchées par les catastrophes et les crises. Rejoignez-nous dans notre mission d'assistance et de soutien aux communautés dans le besoin."
       },
       "box2" : {
-        "title" : "",
-        "link" : "https://learningforall.or.jp/support-4-en/",
-        "link-text" : "",
-        "text" : "Learning for All is dedicated to ensuring every child has access to quality education, regardless of their background. Your donation helps break down barriers and provides vital support to underprivileged students. Be part of the movement to make education accessible to everyone."
+        "title" : "AAR",
+        "link" : "https://aarjapan.gr.jp/en/Faire un don/",
+        "link-text" : "Faire un don",
+        "text": "L'AAR Japon apporte une aide humanitaire et un soutien aux personnes touchées par les conflits, les catastrophes et la pauvreté. Votre contribution nous permet d'offrir des services vitaux et de promouvoir la dignité humaine. Soutenez-nous dans nos efforts pour faire la différence dans la vie de ceux qui en ont le plus besoin."
       },
       "box3" : {
-        "title" : "",
-        "link" : "https://cwaj.org/donation/",
-        "link-text" : "",
-        "text" : "Invest in the future of women’s education and empowerment. CWAJ scholarships and programs provide crucial opportunities for women to pursue their academic dreams. Donate today to support the next generation of female leaders and change-makers."
+        "title" : "Tokyo Spring Homeless Patrol",
+        "link" : "https://www.facebook.com/TSHpatrol/",
+        "link-text" : "Facebook",
+        "text": "Aidez à fournir des fournitures essentielles et un soutien aux sans-abri de Tokyo. Tokyo Spring Homeless Patrol travaille directement dans les rues pour aider les personnes les plus vulnérables. \nVotre soutien peut apporter du réconfort et de l'espoir aux personnes sans domicile."
       }
     },
     "outside-of-japan" : {
-      "section-title": "education",
+      "section-title": "Hors du Japon",
       "box1" : {
-        "title" : "",
-        "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
-        "link-text" : "",
-        "text" : "Support educational initiatives that empower young minds to thrive. Your contribution helps provide scholarships and resources to students in need, fostering future leaders and innovators. Join us in creating a brighter, more educated tomorrow."
+        "title" : "Shapla Neer",
+        "link" : "https://www.shaplaneer.org/english/",
+        "link-text" : "Faire un don",
+        "text": "Soutenez la mission de SHAPLA NEER qui consiste à renforcer les communautés en Asie du Sud par le biais du développement durable et de l'aide humanitaire. \nVotre don contribue à améliorer les conditions de vie et à promouvoir l'autonomie des personnes défavorisées. Rejoignez-nous pour avoir un impact durable au-delà des frontières."
       },
       "box2" : {
-        "title" : "",
-        "link" : "https://learningforall.or.jp/support-4-en/",
-        "link-text" : "",
-        "text" : "Learning for All is dedicated to ensuring every child has access to quality education, regardless of their background. Your donation helps break down barriers and provides vital support to underprivileged students. Be part of the movement to make education accessible to everyone."
+        "title" : "Save the children",
+        "link" : "https://support.savethechildren.org/site/Donation2?df_id=1620&1620.donation=form1",
+        "link-text" : "Faire un don",
+        "text": "Save the Children œuvre dans le monde entier pour que chaque enfant ait la possibilité de s'épanouir. \nVotre don apporte un soutien crucial aux programmes de santé, d'éducation et de protection des enfants dans le besoin. Ensemble, nous pouvons offrir à chaque enfant un avenir plein de possibilités."
       },
       "box3" : {
-        "title" : "",
-        "link" : "https://cwaj.org/donation/",
-        "link-text" : "",
-        "text" : "Invest in the future of women’s education and empowerment. CWAJ scholarships and programs provide crucial opportunities for women to pursue their academic dreams. Donate today to support the next generation of female leaders and change-makers."
+        "title" : "Restos du coeur",
+        "link" : "https://dons.restosducoeur.org/particulier/~mon-don?_cv=1",
+        "link-text" : "Faire un don",
+        "text": "Aidez à combattre la faim et la pauvreté en France en soutenant Les Restos du Cœur. \nVotre don permet de fournir des repas, des abris et des services de soutien aux personnes dans le besoin. Rejoignez-nous dans notre mission d'apporter chaleur et espoir aux plus démunis."
       }
     },
     "animals" : {
-      "section-title": "education",
+      "section-title": "Animaux",
       "box1" : {
-        "title" : "",
-        "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
-        "link-text" : "",
-        "text" : "Support educational initiatives that empower young minds to thrive. Your contribution helps provide scholarships and resources to students in need, fostering future leaders and innovators. Join us in creating a brighter, more educated tomorrow."
+        "title" : "Animal Donation",
+        "link" : "https://www.animaldonation.org/Faire un don/",
+        "link-text" : "Faire un don",
+        "text": "Votre contribution à Animal Donation permet de sauver et d'améliorer la vie des animaux dans le besoin. \nSoutenez les refuges, les opérations de sauvetage et les programmes de soins qui offrent une seconde chance à nos amis à fourrure. Rejoignez-nous dans notre mission de créer un monde meilleur pour les animaux."
       },
       "box2" : {
-        "title" : "",
-        "link" : "https://learningforall.or.jp/support-4-en/",
-        "link-text" : "",
-        "text" : "Learning for All is dedicated to ensuring every child has access to quality education, regardless of their background. Your donation helps break down barriers and provides vital support to underprivileged students. Be part of the movement to make education accessible to everyone."
+        "title" : "Zamaneko",
+        "link" : "https://zamaneko.stores.jp/",
+        "link-text" : "Faire un don",
+        "text": "Soutenez le Cat Cafe Zamaneko dans ses efforts pour prendre soin des chats errants et abandonnés et les réintroduire dans leur foyer. \nVotre don permet de fournir de la nourriture, des soins médicaux et de l'amour aux chats dans le besoin. Aidez-nous à trouver des foyers pour ces adorables félins."
       },
       "box3" : {
-        "title" : "",
-        "link" : "https://cwaj.org/donation/",
-        "link-text" : "",
-        "text" : "Invest in the future of women’s education and empowerment. CWAJ scholarships and programs provide crucial opportunities for women to pursue their academic dreams. Donate today to support the next generation of female leaders and change-makers."
+        "title" : "Chibawan",
+        "link" : "https://chibawan.net/Faire du bénévolat",
+        "link-text" : "Faire du bénévolat",
+        "text": "Chibawan se consacre au sauvetage et à la réhabilitation des animaux abandonnés et errants au Japon. \nVotre soutien permet de fournir des soins médicaux, des abris et des services d'adoption aux animaux dans le besoin. Faites du bénévolat ou faites un don aujourd'hui pour faire une différence dans la vie de nos amis à quatre pattes."
       }
     }
   }
