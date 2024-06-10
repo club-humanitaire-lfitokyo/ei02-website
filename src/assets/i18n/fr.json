@@ -80,7 +80,8 @@
     "animals" : {
       "title" : "Animaux",
       "description" : "Protéger et aider les animaux confrontés à des menaces telles que la destruction de leur habitat, la pollution et l'exploitation due aux activités humaines."
-    }
+    },
+    "more": "Plus d'informations"
   },
   "take-action": {
     "title": "S'engager !",
