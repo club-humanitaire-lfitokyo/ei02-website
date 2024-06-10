@@ -1,0 +1,186 @@
+{
+  "navbar" : {
+    "club" : "LFIT's Humanitarian Club",
+    "home" : "Home",
+    "focus-areas" : "Focus Areas",
+    "take-action" : "Take Action !"
+  },
+  "home" : {
+    "welcome" : "Welcome to the LFIT's Humanitarian Club's Website !",
+    "about-us" : {
+      "title" : "About Us",
+      "text" : "Founded in 2014 by motivated students during a fundraising for Unicef, the Humanitarian Club of the LFIT is a non-profit organisation dedicated to fostering a spirit of compassion and community service among high school students. We engage in a variety of projects aimed at helping locals, children, animals, people outside Japan, and educating and protecting the environment. Members participate in volunteer efforts, educational initiatives, and awareness campaigns to make a positive impact."
+    },
+    "join-us" : {
+      "title" : "How to join us",
+      "text" : "Since we are primarily junior and senior year students, we greatly appreciate the help of younger students who have more free time. \nWe welcome project suggestions from everyone, and volunteers of all ages are encouraged to join us !"
+    },
+    "help-us" : {
+      "title" : "How to help us",
+      "text" : "To support us, you can either volunteer or donate. You can choose a specific theme to donate to (education, helping locals, children, actions abroad, environment, animals). "
+    }
+  },
+  "focus-pages" : {
+    "education" : {
+      "title" : "Education",
+      "subtitle" : "Our Commitment",
+      "text" : "We focus on enhancing educational opportunities for underprivileged students through tutoring, school supply donations, and scholarships. Our efforts empower students by improving their access to quality education and fostering a love for learning."
+    },
+    "children" : {
+      "title" : "Children",
+      "subtitle" : "Our Commitment",
+      "text" : "We also aim to help children living in unstable environments who lack access to education, healthcare, and nutritious food. Providing support like educational programs, mentorship, and safe spaces can help them develop essential skills and confidence. Ensuring they receive proper healthcare and emotional support promotes their well-being. Our efforts can break the cycle of poverty and create a more equitable society where every child has the opportunity to thrive.\n\nThat is why, we have previously collaborated with UNICEF to raise funds. Through initiatives like selling handmade cakes, we've successfully raised 70,190 yen to support their mission. These funds enable UNICEF to provide crucial assistance to vulnerable children worldwide, aligning with our shared vision of creating a brighter future for all.\n"
+    },
+    "environment" : {
+      "title" : "Environment",
+      "subtitle" : "Our Commitment",
+      "text" : "Protecting the environment is vital for the well-being of our planet. We face challenges like pollution, habitat destruction, and climate change. To address these issues, we must reduce pollution, conserve natural habitats, and combat climate change. Simple actions like reducing energy consumption and supporting eco-friendly products can make a significant impact. Let's work together to create a healthier, more sustainable world for future generations.\n"
+    },
+    "outside-of-japan" : {
+      "title" : "Outside of Japan",
+      "subtitle" : "Our Commitment",
+      "text" : "Recognizing that humanitarian efforts know no borders, we extend our outreach beyond Japan. We collaborate with international organisations to support global causes such as disaster relief, poverty alleviation, and educational support in developing countries. Our goal is to contribute to a more just and compassionate world.\n\nThis is why, this year, we have organised an operation to collect books and toys to donate to the association Shapla Neer. This association is dedicated to helping underprivileged communities in South Asia."
+    },
+    "locals" : {
+      "title" : "Locals",
+      "subtitle" : "Our Commitment",
+      "text" : "It is also important to us to help those who need it the most in our communities. Our efforts to help those in need are driven by a desire to make a positive impact and create a more equitable society. By giving our support, we can offer hope and assistance during difficult times.\n\nFor the past year, we have organised campaigns to collect first need items at school but also have also been involved in Tokyo Spring Homeless Patrol’s initiative. \n Tokyo Springs Homeless Patrol is an organization dedicated to distributing meals and essential items to homeless individuals. Through our participation in their Wednesday patrols, we directly contribute to providing much-needed support to those experiencing homelessness, reinforcing our commitment to community welfare and compassionate action."
+    },
+    "animals" : {
+      "title" : "Animals",
+      "subtitle" : "Our Commitment",
+      "text" : "Protecting and helping animals is crucial for us. Indeed, they face threats like habitat destruction, pollution, and exploitation due to human activities.\nPreserving habitats is key to animal protection. Conserving natural areas like forests and oceans ensures wildlife have places to thrive and maintains ecosystem balance and biodiversity.\nPreventing cruelty and exploitation is another crucial aspect. This involves advocating for stronger animal welfare laws, supporting rescue organisations, and promoting cruelty-free practices.\nIndividual actions matter too. Adopting animals from shelters, supporting wildlife conservation projects, and choosing cruelty-free products can all make a difference.\nUltimately, protecting animals is vital for ecosystem health and our planet's well-being. By conserving habitats, preventing cruelty, and promoting ethical treatment, we can create a world where animals are valued members of our global community.\n"
+    }
+  },
+  "focus-areas" : {
+    "education" : {
+      "title" : "Education",
+      "description" : "Educational opportunities for underprivileged students through tutoring, school supply donations, and scholarships"
+    },
+    "children" : {
+      "title" : "Children",
+      "description" : "Help children living in unstable environments who lack access to education, healthcare, and nutritious food"
+    },
+    "environment" : {
+      "title" : "Environment",
+      "description" : "Work together to create a healthier, more sustainable world for future generations"
+    },
+    "outside-of-japan" : {
+      "title" : "Outside of Japan",
+      "description" : "Collaborate with international organisations to support global causes such as disaster relief, poverty alleviation, and educational support in developing countries"
+    },
+    "locals" : {
+      "title" : "Locals",
+      "description" : "Help those who need it the most in our communities"
+    },
+    "animals" : {
+      "title" : "Animals",
+      "description" : "Protecting and helping animals facing threats like habitat destruction, pollution, and exploitation due to human activities."
+    }
+  },
+  "take-action": {
+    "title": "Take Action !",
+    "education" : {
+      "box1" : {
+        "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
+        "link-text" : "",
+        "text" : "Support educational initiatives that empower young minds to thrive. Your contribution helps provide scholarships and resources to students in need, fostering future leaders and innovators. Join us in creating a brighter, more educated tomorrow."
+      },
+      "box2" : {
+        "link" : "https://learningforall.or.jp/support-4-en/",
+        "link-text" : "",
+        "text" : "Learning for All is dedicated to ensuring every child has access to quality education, regardless of their background. Your donation helps break down barriers and provides vital support to underprivileged students. Be part of the movement to make education accessible to everyone."
+      },
+      "box3" : {
+        "link" : "https://cwaj.org/donation/",
+        "link-text" : "",
+        "text" : "Invest in the future of women’s education and empowerment. CWAJ scholarships and programs provide crucial opportunities for women to pursue their academic dreams. Donate today to support the next generation of female leaders and change-makers."
+      }
+    },
+    "environment" : {
+      "box1" : {
+        "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
+        "link-text" : "",
+        "text" : "Support educational initiatives that empower young minds to thrive. Your contribution helps provide scholarships and resources to students in need, fostering future leaders and innovators. Join us in creating a brighter, more educated tomorrow."
+      },
+      "box2" : {
+        "link" : "https://learningforall.or.jp/support-4-en/",
+        "link-text" : "",
+        "text" : "Learning for All is dedicated to ensuring every child has access to quality education, regardless of their background. Your donation helps break down barriers and provides vital support to underprivileged students. Be part of the movement to make education accessible to everyone."
+      },
+      "box3" : {
+        "link" : "https://cwaj.org/donation/",
+        "link-text" : "",
+        "text" : "Invest in the future of women’s education and empowerment. CWAJ scholarships and programs provide crucial opportunities for women to pursue their academic dreams. Donate today to support the next generation of female leaders and change-makers."
+      }
+    },
+    "children" : {
+      "box1" : {
+        "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
+        "link-text" : "",
+        "text" : "Support educational initiatives that empower young minds to thrive. Your contribution helps provide scholarships and resources to students in need, fostering future leaders and innovators. Join us in creating a brighter, more educated tomorrow."
+      },
+      "box2" : {
+        "link" : "https://learningforall.or.jp/support-4-en/",
+        "link-text" : "",
+        "text" : "Learning for All is dedicated to ensuring every child has access to quality education, regardless of their background. Your donation helps break down barriers and provides vital support to underprivileged students. Be part of the movement to make education accessible to everyone."
+      },
+      "box3" : {
+        "link" : "https://cwaj.org/donation/",
+        "link-text" : "",
+        "text" : "Invest in the future of women’s education and empowerment. CWAJ scholarships and programs provide crucial opportunities for women to pursue their academic dreams. Donate today to support the next generation of female leaders and change-makers."
+      }
+    },
+    "locals" : {
+      "box1" : {
+        "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
+        "link-text" : "",
+        "text" : "Support educational initiatives that empower young minds to thrive. Your contribution helps provide scholarships and resources to students in need, fostering future leaders and innovators. Join us in creating a brighter, more educated tomorrow."
+      },
+      "box2" : {
+        "link" : "https://learningforall.or.jp/support-4-en/",
+        "link-text" : "",
+        "text" : "Learning for All is dedicated to ensuring every child has access to quality education, regardless of their background. Your donation helps break down barriers and provides vital support to underprivileged students. Be part of the movement to make education accessible to everyone."
+      },
+      "box3" : {
+        "link" : "https://cwaj.org/donation/",
+        "link-text" : "",
+        "text" : "Invest in the future of women’s education and empowerment. CWAJ scholarships and programs provide crucial opportunities for women to pursue their academic dreams. Donate today to support the next generation of female leaders and change-makers."
+      }
+    },
+    "outside-of-japan" : {
+      "box1" : {
+        "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
+        "link-text" : "",
+        "text" : "Support educational initiatives that empower young minds to thrive. Your contribution helps provide scholarships and resources to students in need, fostering future leaders and innovators. Join us in creating a brighter, more educated tomorrow."
+      },
+      "box2" : {
+        "link" : "https://learningforall.or.jp/support-4-en/",
+        "link-text" : "",
+        "text" : "Learning for All is dedicated to ensuring every child has access to quality education, regardless of their background. Your donation helps break down barriers and provides vital support to underprivileged students. Be part of the movement to make education accessible to everyone."
+      },
+      "box3" : {
+        "link" : "https://cwaj.org/donation/",
+        "link-text" : "",
+        "text" : "Invest in the future of women’s education and empowerment. CWAJ scholarships and programs provide crucial opportunities for women to pursue their academic dreams. Donate today to support the next generation of female leaders and change-makers."
+      }
+    },
+    "animals" : {
+      "box1" : {
+        "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
+        "link-text" : "",
+        "text" : "Support educational initiatives that empower young minds to thrive. Your contribution helps provide scholarships and resources to students in need, fostering future leaders and innovators. Join us in creating a brighter, more educated tomorrow."
+      },
+      "box2" : {
+        "link" : "https://learningforall.or.jp/support-4-en/",
+        "link-text" : "",
+        "text" : "Learning for All is dedicated to ensuring every child has access to quality education, regardless of their background. Your donation helps break down barriers and provides vital support to underprivileged students. Be part of the movement to make education accessible to everyone."
+      },
+      "box3" : {
+        "link" : "https://cwaj.org/donation/",
+        "link-text" : "",
+        "text" : "Invest in the future of women’s education and empowerment. CWAJ scholarships and programs provide crucial opportunities for women to pursue their academic dreams. Donate today to support the next generation of female leaders and change-makers."
+      }
+    }
+  }
+}

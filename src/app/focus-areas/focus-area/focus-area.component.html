@@ -2,8 +2,8 @@
 <div class="card mb-5 mx-auto">
   <img [src]="focusArea.imagePath" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">{{ focusArea.title }}</h5>
-    <p class="card-text">{{ focusArea.description }}</p>
+    <h5 class="card-title">{{ focusArea.title | translate}}</h5>
+    <p class="card-text">{{ focusArea.description | translate}}</p>
     <a routerLink="/{{focusArea.focusAreaPath}}" class="btn btn-primary">More Information</a>
   </div>
 </div>

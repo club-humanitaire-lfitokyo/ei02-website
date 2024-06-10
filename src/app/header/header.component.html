@@ -11,7 +11,7 @@
   <div class="container-fluid">
     <a class="navbar-brand d-flex align-items-center" routerLink="/">
       <img src="assets/images/logov3.png" alt="Logo" width="40" height="40" class="d-inline-block align-text-top">
-      <span class="ms-2">LFIT's Humanitarian Club</span>
+      <span class="ms-2">{{"navbar.club" | translate}}</span>
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -19,15 +19,20 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link" routerLink="/">Home</a>
+          <a class="nav-link" routerLink="/">{{"navbar.home" | translate}}</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" routerLink="/focus-areas">Focus Areas</a>
+          <a class="nav-link" routerLink="/focus-areas">{{"navbar.focus-areas" | translate}}</a>
         </li>
         <li class="nav-item donate-item">
-          <a class="nav-link" routerLink="/take-action" style="color: red">Take Action !</a>
+          <a class="nav-link" routerLink="/take-action" style="color: red">{{"navbar.take-action" | translate}}</a>
         </li>
       </ul>
+      <div class="d-flex btn-group" role="group">
+        <button type="button" class="btn btn-secondary" (click)="switchLanguage('en')">EN</button>
+        <button type="button" class="btn btn-secondary" (click)="switchLanguage('fr')">FR</button>
+        <button type="button" class="btn btn-secondary" (click)="switchLanguage('jp')">JP</button>
+      </div>
     </div>
   </div>
 </nav>

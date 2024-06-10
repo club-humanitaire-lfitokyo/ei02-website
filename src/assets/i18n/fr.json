@@ -1,0 +1,82 @@
+{
+  "navbar" : {
+    "club" : "Club Humanitaire du LFIT",
+    "home" : "Accueil",
+    "focus-areas" : "Domaines Principaux",
+    "take-action" : "S'engager !"
+  },
+  "home" : {
+    "welcome" : "Bienvenue sur le site du Club Humanitaire du LFIT !",
+    "about-us" : {
+      "title" : "À propos de nous",
+      "text" : "Fondé en 2014 par une équipe de lycéens motivés lors d’une collecte de dons pour l’UNICEF, le Club Humanitaire du LFIT est une association qui se consacre au développement d’un esprit de communauté et d’entraide au sein du lycée. Nous sommes engagés dans diverses causes telles que l’aide aux locaux, aux enfants, aux animaux, ou encore aux personnes vivant hors du Japon. De plus, nous sommes aussi actifs dans la lutte contre le réchauffement climatique. Les différents membres de notre association participent à des efforts bénévoles, à des initiatives éducatives ainsi qu’à des campagnes de sensibilisation."
+    },
+    "join-us" : {
+      "title" : "Comment nous rejoindre ?",
+      "text" : "Notre équipe étant composée principalement d’élèves de première et de terminale, nous avons besoin de l’aide de nouveaux élèves qui auraient possiblement plus de temps libre.\nNous sommes ouverts à toute proposition de projet (venant d’élèves comme d’externes), et accueillons les bénévoles de tout âge pour nous aider dans nos activités !\n"
+    },
+    "help-us" : {
+      "title" : "Comment nous aider ?",
+      "text" : "Pour nous soutenir, vous pouvez participer bénévolement aux différentes activités proposées par le club, ou encore donner aux différentes associations que nous mettons en avant. Vous pouvez choisir de donner à l’association que vous souhaitez, et ce suivant les différentes thématiques que nous soutenons (éducation, aides locales, enfance, actions en dehors du Japon, environnement, animaux).  "
+    }
+  },
+  "focus-pages" : {
+    "education" : {
+      "title" : "Éducation",
+      "subtitle" : "Notre Engagement",
+      "text" : "Une cause nous tenant particulièrement à cœur est l’entraide envers les élèves défavorisés. Nous proposons de les aider notamment grâce à du tutorat, des dons de fournitures scolaires ou encore en les accompagnant dans les démarches de demande de bourse. Nos efforts permettent ainsi à ces étudiants d'avoir plus d'autonomie tout en améliorant leur accès à une éducation de qualité."
+    },
+    "children" : {
+      "title" : "Enfants",
+      "subtitle" : "Notre Engagement",
+      "text" : "Nous souhaitons également aider les enfants vivant dans des environnements instables, n’ayant pas accès à une éducation, à des soins de santé ou encore à une alimentation équilibrée et qualitative. En leur fournissant un soutien sous forme de programmes éducatifs, de mentorat et d’espaces sûrs, nous pouvons les aider à développer des compétences essentielles et à gagner en confiance. En leur garantissant l’accès aux soins de santé et un soutien émotionnel approprié, nous favorisons leur bien-être. Nos efforts pourront permettre de briser le cycle de la pauvreté et ainsi de créer un avenir meilleur pour tous.\n\nAfin de pouvoir concrétiser nos objectifs, nous avons collaboré à plusieurs reprises avec l’association UNICEF. Grâce à plusieurs actions, dont la vente de gâteaux maisons, nous avons pu récolter 70 190 Yens à leur profit. Ces dons ont permis à L'UNICEF de fournir une aide cruciale aux enfants vulnérables du monde entier. \n"
+    },
+    "environment" : {
+      "title" : "Environnement",
+      "subtitle" : "Notre Engagement",
+      "text" : "La protection de l'environnement est essentielle au bien-être de notre planète. Nous sommes confrontés à des défis tels que la pollution, la destruction des habitats naturels et le changement climatique. Dans l’optique de diminuer ces risques, il est impératif de prendre part à des actions dans la lutte environnementale. Des projets simples comme réduire la consommation d’énergie et soutenir les produits respectueux de l’environnement peuvent avoir un impact significatif. Travaillons ensemble pour créer un monde plus sain et plus durable pour les générations futures !"
+    },
+    "outside-of-japan" : {
+      "title" : "En dehors du Japon",
+      "subtitle" : "Notre Engagement",
+      "text" : "Conscients que les efforts humanitaires ne présentent pas de frontières, nous étendons nos actions au-delà du Japon. Nous collaborons avec des organisations internationales pour soutenir des causes mondiales telles que les secours en cas de catastrophe, lutter contre la pauvreté, et faciliter l’accès à l’éducation dans les pays en voie de développement. Notre objectif est de contribuer à un monde plus juste et plus solidaire.\n\nC’est pourquoi, en 2024, nous avons organisé une opération de collecte de livres et de jouets à reverser à l’association Shapla Neer, visant à aider les communautés défavorisées en Asie du Sud.\n"
+    },
+    "locals" : {
+      "title" : "Pour les Japonais",
+      "subtitle" : "Notre Engagement",
+      "text" : "Il est important pour nous d’aider les Japonais dans le besoin. Nos efforts pour aider ceux dans le besoin sont animés par le désir d’impacter positivement la société, la rendre plus équitable. En apportant notre soutien, nous pouvons ainsi offrir espoir et assistance dans les moments difficiles.\n\nAu cours de l’année, nous avons organisé des campagnes pour collecter des articles de première nécessité dans l’établissement, mais également participé à l’initiative de la Tokyo Spring Homeless Patrol. Cette association organise des distributions de repas et de produits de première nécessité aux sans-abri. Grâce à notre participation à leurs patrouilles du mercredi, nous pouvons contribuer directement à fournir un soutien indispensable aux personnes sans abri.\n"
+    },
+    "animals" : {
+      "title" : "Animaux",
+      "subtitle" : "Notre Engagement",
+      "text" : "Il nous semble également essentiel d'œuvrer à la protection des animaux. En effet, ils sont confrontés à des menaces telles que la destruction de leur habitat, la pollution et l’exploitation causées des activités humaines.\nLa préservation des habitats est essentielle à la protection des animaux. La conservation des zones naturelles, telles que les forêts ou les océans, permet de garantir à la faune sauvage des lieux où elle peut prospérer tout en maintenant l’équilibre des écosystèmes et de la biodiversité.\nLa prévention de la cruauté et de l’exploitation est un autre aspect crucial dans la protection animalière. Ainsi, il nous semble important de plaider en faveur de lois plus strictes sur le bien-être animal, de soutenir les organisations de sauvetage mais aussi de promouvoir des pratiques sans cruauté.\nLes actions individuelles comptent également. Adopter des animaux dans des refuges, soutenir des projets de conservation de la faune sauvage et choisir des produits sans cruauté peuvent tous faire la différence.\nEn fin de compte, la protection des animaux est essentielle à la santé des écosystèmes et au bien-être de notre planète. En préservant les habitats, en prévenant la cruauté et en promouvant un traitement éthique, nous pouvons créer un monde où les animaux sont des membres appréciés de notre communauté mondiale.\n"
+    }
+  },
+  "focus-areas" : {
+    "education" : {
+      "title" : "Éducation",
+      "description" : "Opportunités éducatives pour les étudiants défavorisés grâce à des cours particuliers, des dons de fournitures scolaires et des bourses"
+    },
+    "children" : {
+      "title" : "Enfants",
+      "description" : "Aider les enfants vivant dans des environnements instables qui n'ont pas accès à l'éducation, aux soins de santé et à une alimentation nutritive"
+    },
+    "environment" : {
+      "title" : "Environnement",
+      "description" : "Travailler ensemble pour créer un monde plus sain et plus durable pour les générations futures"
+    },
+    "outside-of-japan" : {
+      "title" : "Hors du Japon",
+      "description" : "Collaborer avec des organisations internationales pour soutenir des causes mondiales telles que l'aide en cas de catastrophe, la réduction de la pauvreté et le soutien éducatif dans les pays en développement"
+    },
+    "locals" : {
+      "title" : "Communautés locales",
+      "description" : "Aider ceux qui en ont le plus besoin dans nos communautés"
+    },
+    "animals" : {
+      "title" : "Animaux",
+      "description" : "Protéger et aider les animaux confrontés à des menaces telles que la destruction de leur habitat, la pollution et l'exploitation due aux activités humaines."
+    }
+  }
+
+}
