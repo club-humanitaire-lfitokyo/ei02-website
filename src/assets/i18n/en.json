@@ -18,6 +18,9 @@
     "help-us" : {
       "title" : "How to help us",
       "text" : "To support us, you can either volunteer or donate. You can choose a specific theme to donate to (education, helping locals, children, actions abroad, environment, animals). "
+    },
+    "take-action": {
+      "title": "Take Action !"
     }
   },
   "focus-pages" : {

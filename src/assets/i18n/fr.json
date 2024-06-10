@@ -18,6 +18,9 @@
     "help-us" : {
       "title" : "Comment nous aider ?",
       "text" : "Pour nous soutenir, vous pouvez participer bénévolement aux différentes activités proposées par le club, ou encore donner aux différentes associations que nous mettons en avant. Vous pouvez choisir de donner à l’association que vous souhaitez, et ce suivant les différentes thématiques que nous soutenons (éducation, aides locales, enfance, actions en dehors du Japon, environnement, animaux).  "
+    },
+    "take-action": {
+      "title": "S'engager !"
     }
   },
   "focus-pages" : {
