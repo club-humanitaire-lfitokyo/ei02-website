@@ -83,116 +83,127 @@
     "education" : {
       "section-title": "教育",
       "box1" : {
-        "title" : "",
+        "title" : "誕生日",
         "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
-        "link-text" : "",
+        "link-text" : "寄付する",
         "text" : "若者の心を育む教育イニシアチブを支援しましょう。皆様のご寄付は、奨学金やリソースを必要とする学生への提供に役立ち、将来のリーダーやイノベーターを育成します。私たちと一緒に、より明るく、より教育的な明日を作りましょう。"
       },
       "box2" : {
-        "title" : "",
+        "title" : "ラーニング・フォー・オール",
         "link" : "https://learningforall.or.jp/support/credit2/entry/",
-        "link-text" : "",
+        "link-text" : "寄付する",
         "text" : "ラーニング・フォー・オールは、子どもたちのバックグラウンドにかかわらず、すべての子どもたちが質の高い教育を受けられるようにすることを目的としています。あなたの寄付は、障壁を取り除き、恵まれない生徒たちに重要なサポートを提供するのに役立ちます。誰もが教育を受けられるようにする運動の一翼を担ってください。"
       },
       "box3" : {
-        "title" : "",
+        "title" : "CWAJ",
         "link" : "https://cwaj.org/jp/cwaj-donation/",
-        "link-text" : "",
+        "link-text" : "寄付する",
         "text" : "女性の教育とエンパワーメントの未来に投資しましょう。CWAJ の奨学金とプログラムは、女性が学問の夢を追求するための重要な機会を提供しています。次世代の女性リーダーや変革者を支援するために、今すぐご寄付ください。"
       }
     },
     "environment" : {
       "section-title": "環境",
       "box1" : {
-        "title" : "",
-        "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
-        "link-text" : "",
-        "text" : "Support educational initiatives that empower young minds to thrive. Your contribution helps provide scholarships and resources to students in need, fostering future leaders and innovators. Join us in creating a brighter, more educated tomorrow."
+        "title" : "WWF",
+        "link" : "https://www.wwf.or.jp/support/",
+        "link-text" : "寄付する",
+        "text" : "私たちの地球上で最も脆弱な種と生息地を守るために、WWFと一緒に闘いましょう。あなたのご支援は、世界中の重要な保護プロジェクトの資金となります。人と自然が共に持続可能な未来を築くために、ぜひご協力ください。"
       },
       "box2" : {
-        "title" : "",
-        "link" : "https://learningforall.or.jp/support-4-en/",
+        "title" : "JWCS",
+        "link" : "https://www.jwcs.org/donation/",
         "link-text" : "",
-        "text" : "Learning for All is dedicated to ensuring every child has access to quality education, regardless of their background. Your donation helps break down barriers and provides vital support to underprivileged students. Be part of the movement to make education accessible to everyone."
+        "text" : "JWCSを支援することで、日本のユニークな野生生物と自然景観を守りましょう。JWCSへのご寄付は、絶滅危惧種の保護活動やアドボカシー活動に直接貢献します。今日からあなたも自然のスチュワードに。"
       },
       "box3" : {
-        "title" : "",
-        "link" : "https://cwaj.org/donation/",
+        "title" : "フレンズ・オブ・ジ・アース・ジャパン",
+        "link" : "https://foejapan.org",
         "link-text" : "",
-        "text" : "Invest in the future of women’s education and empowerment. CWAJ scholarships and programs provide crucial opportunities for women to pursue their academic dreams. Donate today to support the next generation of female leaders and change-makers."
+        "text": "フレンズ・オブ・ジ・アース・ジャパンは、環境問題に対する持続可能で公平な解決策を提唱しています。皆様のご寄付は、環境正義を推進する草の根運動やイニシアティブを支援します。私たちと一緒に、未来の世代のために地球を守りましょう。"
       }
     },
     "children" : {
       "section-title": "子供たち",
       "box1" : {
-        "title" : "",
-        "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
-        "link-text" : "",
-        "text" : "Support educational initiatives that empower young minds to thrive. Your contribution helps provide scholarships and resources to students in need, fostering future leaders and innovators. Join us in creating a brighter, more educated tomorrow."
+        "title" : "ユニセフ",
+        "link" : "https://www.unicef.org/",
+        "link-text" : "寄付する",
+        "text" : "ユニセフは、保健、教育、保護活動を通じて、世界中の子どもたちの生活向上に取り組んでいます。あなたの寄付は、すべての子どもたちが安全で、健康で、教育を受けながら成長できるよう、大きな変化をもたらすことができます。私たちと一緒に、世界中の子どもたちのためにより良い世界を作りましょう。"
       },
       "box2" : {
-        "link" : "https://learningforall.or.jp/support-4-en/",
-        "link-text" : "",
-        "text" : "Learning for All is dedicated to ensuring every child has access to quality education, regardless of their background. Your donation helps break down barriers and provides vital support to underprivileged students. Be part of the movement to make education accessible to everyone."
+        "title" : "誕生日",
+        "link" : "https://ec.philanthropy.or.jp/products/list?category_id=15&birthday",
+        "link-text" : "寄付する",
+        "text" : "日本全国の子どもたちの健やかな成長を応援します。皆さまからのご厚意は、支援を必要とする子どもたちに必要不可欠なケア、教育、支援サービスを提供するプログラムの資金となります。すべての子どもたちの可能性を育むために、ぜひご協力ください。"
       },
       "box3" : {
-        "link" : "https://cwaj.org/donation/",
-        "link-text" : "",
-        "text" : "Invest in the future of women’s education and empowerment. CWAJ scholarships and programs provide crucial opportunities for women to pursue their academic dreams. Donate today to support the next generation of female leaders and change-makers."
+        "title" : "日本こども支援協会",
+        "link" : "https://congrant.com/project/npojcsa/173/form/step1",
+        "link-text" : "寄付する",
+        "text" : "日本ユニセフ協会（JCSA）は、国内外の弱い立場にある子どもたちを支援するために、たゆまぬ努力を続けています。皆様からのご寄付は、子どもたちの生活を向上させるための重要な資源やサービスの提供に役立てられます。私たちは共に、子どもたちの未来に永続的なインパクトを与えることができるのです。"
       }
     },
     "locals" : {
       "section-title": "地元支援",
       "box1" : {
-        "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
+        "title" : "日本赤十字社",
+        "link" : "https://www.jrc.or.jp/contribute/",
         "link-text" : "",
-        "text" : "Support educational initiatives that empower young minds to thrive. Your contribution helps provide scholarships and resources to students in need, fostering future leaders and innovators. Join us in creating a brighter, more educated tomorrow."
+        "text": "日本赤十字社は、日本全国で緊急救援と地域社会の支援に取り組んでいます。皆さまからのご寄付は、災害や危機に見舞われた人々に必要な支援をお届けするために役立てられています。日本赤十字社は、災害や緊急事態に見舞われた被災者の方々を支援することを使命としています。"
       },
       "box2" : {
-        "link" : "https://learningforall.or.jp/support-4-en/",
+        "title" : "AAR",
+        "link" : "https://aarjapan.gr.jp/support/#s_1",
         "link-text" : "",
-        "text" : "Learning for All is dedicated to ensuring every child has access to quality education, regardless of their background. Your donation helps break down barriers and provides vital support to underprivileged students. Be part of the movement to make education accessible to everyone."
+        "text": "AARジャパンは、紛争、災害、貧困の影響を受けている人々に人道的支援とサポートを行っています。皆様のご寄付により、命を救うサービスを提供し、人間の尊厳を促進することができます。AARジャパンの活動にご協力をお願いいたします。"
       },
       "box3" : {
-        "link" : "https://cwaj.org/donation/",
-        "link-text" : "",
-        "text" : "Invest in the future of women’s education and empowerment. CWAJ scholarships and programs provide crucial opportunities for women to pursue their academic dreams. Donate today to support the next generation of female leaders and change-makers."
+        "title" : "東京スプリングホームレスパトロール",
+        "link" : "https://www.facebook.com/TSHpatrol/",
+        "link-text" : "フェイスブック",
+        "text": "東京のホームレスに必要な物資を提供し、支援する。東京の春ホームレスパトロール隊は、最も弱い立場にある人々を支援するため、路上で直接活動しています。あなたの支援は、家のない人々に安らぎと希望をもたらすことができます。"
       }
     },
     "outside-of-japan" : {
       "section-title": "海外",
       "box1" : {
-        "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
+        "title" : "Shapla Neer",
+        "link" : "https://www.shaplaneer.org/english/",
         "link-text" : "",
-        "text" : "Support educational initiatives that empower young minds to thrive. Your contribution helps provide scholarships and resources to students in need, fostering future leaders and innovators. Join us in creating a brighter, more educated tomorrow."
+        "text": "持続可能な開発と人道支援を通じて、南アジアのコミュニティに力を与えるというSHAPLA NEERの使命を支援してください。あなたの寄付が、恵まれない人々の生活環境を改善し、自立を促進します。国境を越えて永続的なインパクトを与えるために、私たちと一緒に参加しませんか。"
       },
       "box2" : {
-        "link" : "https://learningforall.or.jp/support-4-en/",
+        "title" : "Save the Children",
+        "link" : "https://support.savethechildren.org/site/Donation2?df_id=1620&1620.donation=form1",
         "link-text" : "",
-        "text" : "Learning for All is dedicated to ensuring every child has access to quality education, regardless of their background. Your donation helps break down barriers and provides vital support to underprivileged students. Be part of the movement to make education accessible to everyone."
+        "text": "セーブ・ザ・チルドレンは、すべての子どもたちが成長する機会を得られるよう、世界各地で活動しています。あなたの寄付は、恵まれない子どもたちのための保健、教育、保護プログラムへの重要な支援となります。私たちは共に、すべての子どもたちに可能性に満ちた未来を与えることができるのです。"
       },
       "box3" : {
-        "link" : "https://cwaj.org/donation/",
+        "title" : "Restos du Coeur",
+        "link" : "https://dons.restosducoeur.org/particulier/~mon-don?_cv=1",
         "link-text" : "",
-        "text" : "Invest in the future of women’s education and empowerment. CWAJ scholarships and programs provide crucial opportunities for women to pursue their academic dreams. Donate today to support the next generation of female leaders and change-makers."
+        "text": "Les Restos du Cœurを支援することで、フランスの飢餓と貧困の撲滅に貢献しましょう。あなたの寄付は、食事を必要とする人々に食事、避難所、支援サービスを提供します。恵まれない人々に暖かさと希望をもたらすという私たちの使命に参加してください。"
       }
     },
     "animals" : {
       "section-title": "動物",
       "box1" : {
-        "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
+        "title" : "アニドネ",
+        "link" : "https://www.animaldonation.org/donate/",
         "link-text" : "",
-        "text" : "Support educational initiatives that empower young minds to thrive. Your contribution helps provide scholarships and resources to students in need, fostering future leaders and innovators. Join us in creating a brighter, more educated tomorrow."
+        "text": "アニマル・ドネーションへのご寄付は、困っている動物たちの命を救い、改善するために役立ちます。シェルター、レスキュー活動、そして毛皮で覆われた友人たちにセカンドチャンスを提供するケアプログラムをサポートします。動物にとってより良い世界を作るという私たちの使命にご参加ください。"
       },
       "box2" : {
-        "link" : "https://learningforall.or.jp/support-4-en/",
+        "title" : "ざま野良猫",
+        "link" : "https://zamaneko.stores.jp/",
         "link-text" : "",
-        "text" : "Learning for All is dedicated to ensuring every child has access to quality education, regardless of their background. Your donation helps break down barriers and provides vital support to underprivileged students. Be part of the movement to make education accessible to everyone."
+        "text": "野良猫や捨て猫を保護し、里親を探す活動をしている猫カフェざまねこを応援してください。あなたの寄付は、必要な猫たちに必要なフード、医療、そして愛情を提供します。愛らしい猫たちに永遠の里親を見つけるために、ぜひご協力ください。"
       },
       "box3" : {
-        "link" : "https://cwaj.org/donation/",
-        "link-text" : "",
-        "text" : "Invest in the future of women’s education and empowerment. CWAJ scholarships and programs provide crucial opportunities for women to pursue their academic dreams. Donate today to support the next generation of female leaders and change-makers."
+        "title" : "ちばわん",
+        "link" : "https://chibawan.net/volunteer",
+        "link-text" : "ボランティア",
+        "text": "ちばわんは、日本で捨てられたり迷子になったりした動物の保護と里親探しを行なっています。皆様のご支援により、医療、シェルター、里親探しを必要とする動物たちにサービスを提供することができます。ボランティアや寄付をすることで、4本足の動物たちの生活を変えることができます。"
       }
     }
   }
