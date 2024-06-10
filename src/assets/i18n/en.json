@@ -219,5 +219,25 @@
         "text": "Chibawan is dedicated to rescuing and rehoming abandoned and stray animals in Japan. Your support helps provide medical care, shelter, and adoption services for animals in need. Volunteer or donate today to make a difference in the lives of our four-legged friends."
       }
     }
+  },
+  "footer": {
+    "title": "LFIT's Humanitarian Club",
+    "description": "Founded in 2014 by motivated students during a fundraising for Unicef, the Humanitarian Club of the LFIT is a non-profit organisation dedicated to fostering a spirit of compassion and community service among high school students.",
+    "focus-area": {
+      "title": "Focus Areas",
+      "education" : "Education",
+      "children" :"Children",
+      "environment" : "Environment",
+      "outside-of-japan" : "Outside of Japan",
+      "locals" : "Locals",
+      "animals" : "Animals"
+    },
+    "take-action": {
+      "title": "Take Action !"
+    },
+    "contact": {
+      "title": "Contact",
+      "insta": "Instagram"
+    }
   }
 }

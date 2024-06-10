@@ -219,5 +219,25 @@
         "text": "Chibawan se consacre au sauvetage et à la réhabilitation des animaux abandonnés et errants au Japon. \nVotre soutien permet de fournir des soins médicaux, des abris et des services d'adoption aux animaux dans le besoin. Faites du bénévolat ou faites un don aujourd'hui pour faire une différence dans la vie de nos amis à quatre pattes."
       }
     }
+  },
+  "footer": {
+    "title": "Club Humanitaire du LFIT",
+    "description": "Fondé en 2014 par une équipe de lycéens motivés lors d’une collecte de dons pour l’UNICEF, le Club Humanitaire du LFIT est une association qui se consacre au développement d’un esprit de communauté et d’entraide au sein du lycée.",
+    "focus-area": {
+      "title": "Domaines Principaux",
+      "education" : "Éducation",
+      "children" :"Enfants",
+      "environment" : "Environnement",
+      "outside-of-japan" : "Hors du Japon",
+      "locals" : "Communautés locales",
+      "animals" : "Animaux"
+    },
+    "take-action": {
+      "title": "S'engager !"
+    },
+    "contact": {
+      "title": "Contact",
+      "insta": "Instagram"
+    }
   }
 }
