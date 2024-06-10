@@ -63,23 +63,23 @@
     },
     "children" : {
       "title" : "Children",
-      "description" : "Help children living in unstable environments who lack access to education, healthcare, and nutritious food",
+      "description" : "Help children living in unstable environments who lack access to education, healthcare, and nutritious food"
     },
     "environment" : {
       "title" : "Environment",
-      "description" : "Work together to create a healthier, more sustainable world for future generations",
+      "description" : "Work together to create a healthier, more sustainable world for future generations"
     },
     "outside-of-japan" : {
       "title" : "Outside of Japan",
-      "description" : "Collaborate with international organisations to support global causes such as disaster relief, poverty alleviation, and educational support in developing countries",
+      "description" : "Collaborate with international organisations to support global causes such as disaster relief, poverty alleviation, and educational support in developing countries"
     },
     "locals" : {
       "title" : "Locals",
-      "description" : "Help those who need it the most in our communities",
+      "description" : "Help those who need it the most in our communities"
     },
     "animals" : {
       "title" : "Animals",
-      "description" : "Protecting and helping animals facing threats like habitat destruction, pollution, and exploitation due to human activities.",
+      "description" : "Protecting and helping animals facing threats like habitat destruction, pollution, and exploitation due to human activities."
     },
     "more": "More Information"
   },

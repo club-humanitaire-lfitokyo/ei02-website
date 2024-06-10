@@ -2,13 +2,15 @@ import { Component } from '@angular/core';
 import {FocusArea} from "./focus-area.model";
 import {FocusAreaComponent} from "./focus-area/focus-area.component";
 import {NgForOf} from "@angular/common";
+import {TranslateModule} from "@ngx-translate/core";
 
 @Component({
   selector: 'app-focus-areas',
   standalone: true,
   imports: [
     FocusAreaComponent,
-    NgForOf
+    NgForOf,
+    TranslateModule
   ],
   templateUrl: './focus-areas.component.html',
   styleUrl: './focus-areas.component.css'
