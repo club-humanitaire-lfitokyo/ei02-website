@@ -56,6 +56,7 @@
     }
   },
   "focus-areas" : {
+    "title": "Focus Areas",
     "education" : {
       "title" : "Education",
       "description" : "Educational opportunities for underprivileged students through tutoring, school supply donations, and scholarships"

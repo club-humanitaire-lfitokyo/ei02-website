@@ -56,6 +56,7 @@
     }
   },
   "focus-areas" : {
+    "title": "テーマ",
     "education" : {
       "title" : "教育",
       "description" : "家庭教師、学用品の寄付、奨学金を通じて恵まれない生徒たちに教育の機会を提供する。"
