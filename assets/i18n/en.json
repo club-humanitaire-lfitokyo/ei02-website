@@ -1,0 +1,243 @@
+{
+  "navbar" : {
+    "club" : "LFIT's Humanitarian Club",
+    "home" : "Home",
+    "focus-areas" : "Focus Areas",
+    "take-action" : "Take Action !"
+  },
+  "home" : {
+    "welcome" : "Welcome to the LFIT's Humanitarian Club's Website !",
+    "about-us" : {
+      "title" : "About Us",
+      "text" : "Founded in 2014 by motivated students during a fundraising for Unicef, the Humanitarian Club of the LFIT is a non-profit organisation dedicated to fostering a spirit of compassion and community service among high school students. We engage in a variety of projects aimed at helping locals, children, animals, people outside Japan, and educating and protecting the environment. Members participate in volunteer efforts, educational initiatives, and awareness campaigns to make a positive impact."
+    },
+    "join-us" : {
+      "title" : "How to join us",
+      "text" : "Since we are primarily junior and senior year students, we greatly appreciate the help of younger students who have more free time. \nWe welcome project suggestions from everyone, and volunteers of all ages are encouraged to join us !"
+    },
+    "help-us" : {
+      "title" : "How to help us",
+      "text" : "To support us, you can either volunteer or donate. You can choose a specific theme to donate to (education, helping locals, children, actions abroad, environment, animals). "
+    },
+    "take-action": {
+      "title": "Take Action !"
+    }
+  },
+  "focus-pages" : {
+    "message": "Make a difference",
+    "education" : {
+      "title" : "Education",
+      "subtitle" : "Our Commitment",
+      "text" : "We focus on enhancing educational opportunities for underprivileged students through tutoring, school supply donations, and scholarships. Our efforts empower students by improving their access to quality education and fostering a love for learning.",
+      "message": "Become a donor through our partners and make good education accessible for all !"
+    },
+    "children" : {
+      "title" : "Children",
+      "subtitle" : "Our Commitment",
+      "text" : "We also aim to help children living in unstable environments who lack access to education, healthcare, and nutritious food. Providing support like educational programs, mentorship, and safe spaces can help them develop essential skills and confidence. Ensuring they receive proper healthcare and emotional support promotes their well-being. Our efforts can break the cycle of poverty and create a more equitable society where every child has the opportunity to thrive.\n\nThat is why, we have previously collaborated with UNICEF to raise funds. Through initiatives like selling handmade cakes, we've successfully raised 70,190 yen to support their mission. These funds enable UNICEF to provide crucial assistance to vulnerable children worldwide, aligning with our shared vision of creating a brighter future for all.\n",
+      "message": "Become a donor through our partners and help children in need !"
+    },
+    "environment" : {
+      "title" : "Environment",
+      "subtitle" : "Our Commitment",
+      "text" : "Protecting the environment is vital for the well-being of our planet. We face challenges like pollution, habitat destruction, and climate change. To address these issues, we must reduce pollution, conserve natural habitats, and combat climate change. Simple actions like reducing energy consumption and supporting eco-friendly products can make a significant impact. Let's work together to create a healthier, more sustainable world for future generations.\n",
+      "message": "Become a donor through our partners and help preserve our planet !"
+    },
+    "outside-of-japan" : {
+      "title" : "Outside of Japan",
+      "subtitle" : "Our Commitment",
+      "text" : "Recognizing that humanitarian efforts know no borders, we extend our outreach beyond Japan. We collaborate with international organisations to support global causes such as disaster relief, poverty alleviation, and educational support in developing countries. Our goal is to contribute to a more just and compassionate world.\n\nThis is why, this year, we have organised an operation to collect books and toys to donate to the association Shapla Neer. This association is dedicated to helping underprivileged communities in South Asia.",
+      "message": "Become a donor through our partners and help people from all around the globe !"
+    },
+    "locals" : {
+      "title" : "Locals",
+      "subtitle" : "Our Commitment",
+      "text" : "It is also important to us to help those who need it the most in our communities. Our efforts to help those in need are driven by a desire to make a positive impact and create a more equitable society. By giving our support, we can offer hope and assistance during difficult times.\n\nFor the past year, we have organised campaigns to collect first need items at school but also have also been involved in Tokyo Spring Homeless Patrol’s initiative. \n Tokyo Springs Homeless Patrol is an organization dedicated to distributing meals and essential items to homeless individuals. Through our participation in their Wednesday patrols, we directly contribute to providing much-needed support to those experiencing homelessness, reinforcing our commitment to community welfare and compassionate action.",
+      "message": "Become a donor through our partners and help locals in need !"
+    },
+    "animals" : {
+      "title" : "Animals",
+      "subtitle" : "Our Commitment",
+      "text" : "Protecting and helping animals is crucial for us. Indeed, they face threats like habitat destruction, pollution, and exploitation due to human activities.\nPreserving habitats is key to animal protection. Conserving natural areas like forests and oceans ensures wildlife have places to thrive and maintains ecosystem balance and biodiversity.\nPreventing cruelty and exploitation is another crucial aspect. This involves advocating for stronger animal welfare laws, supporting rescue organisations, and promoting cruelty-free practices.\nIndividual actions matter too. Adopting animals from shelters, supporting wildlife conservation projects, and choosing cruelty-free products can all make a difference.\nUltimately, protecting animals is vital for ecosystem health and our planet's well-being. By conserving habitats, preventing cruelty, and promoting ethical treatment, we can create a world where animals are valued members of our global community.\n",
+      "message": "Become a donor through our partners and help animals in need !"
+    },
+    "take-action": "Take Action !"
+  },
+  "focus-areas" : {
+    "title": "Focus Areas",
+    "education" : {
+      "title" : "Education",
+      "description" : "Educational opportunities for underprivileged students through tutoring, school supply donations, and scholarships"
+    },
+    "children" : {
+      "title" : "Children",
+      "description" : "Help children living in unstable environments who lack access to education, healthcare, and nutritious food"
+    },
+    "environment" : {
+      "title" : "Environment",
+      "description" : "Work together to create a healthier, more sustainable world for future generations"
+    },
+    "outside-of-japan" : {
+      "title" : "Outside of Japan",
+      "description" : "Collaborate with international organisations to support global causes such as disaster relief, poverty alleviation, and educational support in developing countries"
+    },
+    "locals" : {
+      "title" : "Locals",
+      "description" : "Help those who need it the most in our communities"
+    },
+    "animals" : {
+      "title" : "Animals",
+      "description" : "Protecting and helping animals facing threats like habitat destruction, pollution, and exploitation due to human activities."
+    },
+    "more": "More Information"
+  },
+  "take-action": {
+    "title": "Take Action !",
+    "education" : {
+      "section-title": "Education",
+      "box1" : {
+        "title" : "Birthday Donation",
+        "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
+        "link-text" : "Donate",
+        "text" : "Support educational initiatives that empower young minds to thrive. Your contribution helps provide scholarships and resources to students in need, fostering future leaders and innovators. Join us in creating a brighter, more educated tomorrow."
+      },
+      "box2" : {
+        "title" : "Learning for all",
+        "link" : "https://learningforall.or.jp/support-4-en/",
+        "link-text" : "Donate",
+        "text" : "Learning for All is dedicated to ensuring every child has access to quality education, regardless of their background. Your donation helps break down barriers and provides vital support to underprivileged students. Be part of the movement to make education accessible to everyone."
+      },
+      "box3" : {
+        "title" : "CWAJ",
+        "link" : "https://cwaj.org/donation/",
+        "link-text" : "Donate",
+        "text" : "Invest in the future of women’s education and empowerment. CWAJ scholarships and programs provide crucial opportunities for women to pursue their academic dreams. Donate today to support the next generation of female leaders and change-makers."
+      }
+    },
+    "environment" : {
+      "section-title": "Environment",
+      "box1" : {
+        "title" : "WWF",
+        "link" : "https://wwf.panda.org/",
+        "link-text" : "Donate",
+        "text" : "Join WWF in the fight to protect our planet's most vulnerable species and habitats. Your support funds critical conservation projects around the world. Help us build a sustainable future for people and nature alike."
+      },
+      "box2" : {
+        "title" : "JWCS",
+        "link" : "https://www.jwcs.org/en/donation/",
+        "link-text" : "Donate",
+        "text" : "Protect Japan's unique wildlife and natural landscapes by supporting JWCS. Your donations directly contribute to conservation efforts and advocacy work that safeguard endangered species. Become a steward of nature today.\n"
+      },
+      "box3" : {
+        "title" : "Friends of the Earth Japan",
+        "link" : "https://foejapan.org/en/",
+        "link-text" : "Volunteer",
+        "text" : "Friends of the Earth Japan champions sustainable and equitable solutions for environmental challenges. Your contribution supports grassroots movements and initiatives that promote environmental justice. Stand with us in preserving our planet for future generations.\n"
+      }
+    },
+    "children" : {
+      "section-title": "Children",
+      "box1" : {
+        "title" : "UNICEF",
+        "link" : "https://www.unicef.org/",
+        "link-text" : "Donate",
+        "text" : "UNICEF is dedicated to improving the lives of children worldwide through health, education, and protection initiatives. Your donation can make a significant difference in ensuring that every child has the chance to grow up safe, healthy, and educated. Join us in creating a better world for children everywhere."
+      },
+      "box2" : {
+        "title" : "Birthday Donation",
+        "link" : "https://ec.philanthropy.or.jp/products/list?category_id=15&birthday",
+        "link-text" : "Donate",
+        "text" : "Support the well-being and development of children across Japan. Your generosity funds programs that provide essential care, education, and support services to children in need. Help us nurture the potential of every child."
+      },
+      "box3" : {
+        "title" : "Japan children support association",
+        "link" : "https://congrant.com/project/npojcsa/173/form/step1",
+        "link-text" : "Donate",
+        "text" : "The Japan Committee for UNICEF (JCSA) works tirelessly to support vulnerable children both domestically and globally. Your donation helps provide critical resources and services to improve children's lives. Together, we can make a lasting impact on children's futures."
+      }
+    },
+    "locals" : {
+      "section-title": "Locals",
+      "box1" : {
+        "title" : "Japanese Red Cross Society",
+        "link" : "https://www.jrc.or.jp/english/donate/",
+        "link-text" : "Donate",
+        "text": "The Japanese Red Cross Society is committed to providing emergency relief and community support across Japan. Your donation helps deliver vital assistance to those affected by disasters and crises. Join us in our mission to care for and uplift communities in need."
+      },
+      "box2" : {
+        "title" : "AAR",
+        "link" : "https://aarjapan.gr.jp/en/donate/",
+        "link-text" : "Donate",
+        "text": "AAR Japan provides humanitarian aid and support to those affected by conflict, disaster, and poverty. Your contribution enables us to offer life-saving services and promote human dignity. Stand with us in our efforts to make a difference in the lives of those who need it most."
+      },
+      "box3" : {
+        "title" : "Tokyo Spring Homeless Patrol",
+        "link" : "https://www.facebook.com/TSHpatrol/",
+        "link-text" : "Facebook",
+        "text": "Help provide essential supplies and support to the homeless in Tokyo. Tokyo Spring Homeless Patrol works directly on the streets to aid those who are most vulnerable. Your support can bring comfort and hope to those without homes."
+      }
+    },
+    "outside-of-japan" : {
+      "section-title": "Outside of Japan",
+      "box1" : {
+        "title" : "Shapla Neer",
+        "link" : "https://www.shaplaneer.org/english/",
+        "link-text" : "Donate",
+        "text": "Support SHAPLA NEER’s mission to empower communities in South Asia through sustainable development and humanitarian aid. Your donation helps improve living conditions and promote self-reliance among the disadvantaged. Join us in making a lasting impact beyond borders."
+      },
+      "box2" : {
+        "title" : "Save the children",
+        "link" : "https://support.savethechildren.org/site/Donation2?df_id=1620&1620.donation=form1",
+        "link-text" : "Donate",
+        "text": "Save the Children works globally to ensure that every child has the chance to thrive. Your donation provides crucial support for health, education, and protection programs for children in need. Together, we can give every child a future full of possibilities."
+      },
+      "box3" : {
+        "title" : "Restos du coeur",
+        "link" : "https://dons.restosducoeur.org/particulier/~mon-don?_cv=1",
+        "link-text" : "Donate",
+        "text": "Help combat hunger and poverty in France by supporting Les Restos du Cœur. Your donation provides meals, shelter, and support services to those in need. Join us in our mission to bring warmth and hope to the less fortunate"
+      }
+    },
+    "animals" : {
+      "section-title": "Animals",
+      "box1" : {
+        "title" : "Animal Donation",
+        "link" : "https://www.animaldonation.org/donate/",
+        "link-text" : "Donate",
+        "text": "Your contribution to Animal Donation helps save and improve the lives of animals in need. Support shelters, rescue operations, and care programs that provide a second chance for our furry friends. Join us in our mission to create a better world for animals."
+      },
+      "box2" : {
+        "title" : "Zamaneko",
+        "link" : "https://zamaneko.stores.jp/",
+        "link-text" : "Donate",
+        "text": "Support Cat Cafe Zamaneko in their efforts to care for and rehome stray and abandoned cats. Your donation provides essential food, medical care, and love to cats in need. Help us find forever homes for these adorable felines."
+      },
+      "box3" : {
+        "title" : "Chibawan",
+        "link" : "https://chibawan.net/volunteer",
+        "link-text" : "Volunteer",
+        "text": "Chibawan is dedicated to rescuing and rehoming abandoned and stray animals in Japan. Your support helps provide medical care, shelter, and adoption services for animals in need. Volunteer or donate today to make a difference in the lives of our four-legged friends."
+      }
+    }
+  },
+  "footer": {
+    "title": "LFIT's Humanitarian Club",
+    "description": "Founded in 2014 by motivated students during a fundraising for Unicef, the Humanitarian Club of the LFIT is a non-profit organisation dedicated to fostering a spirit of compassion and community service among high school students.",
+    "focus-area": {
+      "title": "Focus Areas",
+      "education" : "Education",
+      "children" :"Children",
+      "environment" : "Environment",
+      "outside-of-japan" : "Outside of Japan",
+      "locals" : "Locals",
+      "animals" : "Animals"
+    },
+    "take-action": {
+      "title": "Take Action !"
+    },
+    "contact": {
+      "title": "Contact",
+      "insta": "Instagram"
+    }
+  }
+}

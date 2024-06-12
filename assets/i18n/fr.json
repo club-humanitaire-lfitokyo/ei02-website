@@ -1,0 +1,243 @@
+{
+  "navbar" : {
+    "club" : "Club Humanitaire du LFIT",
+    "home" : "Accueil",
+    "focus-areas" : "Domaines Principaux",
+    "take-action" : "S'engager !"
+  },
+  "home" : {
+    "welcome" : "Bienvenue sur le site du Club Humanitaire du LFIT !",
+    "about-us" : {
+      "title" : "À propos de nous",
+      "text" : "Fondé en 2014 par une équipe de lycéens motivés lors d’une collecte de dons pour l’UNICEF, le Club Humanitaire du LFIT est une association qui se consacre au développement d’un esprit de communauté et d’entraide au sein du lycée. Nous sommes engagés dans diverses causes telles que l’aide aux locaux, aux enfants, aux animaux, ou encore aux personnes vivant hors du Japon. De plus, nous sommes aussi actifs dans la lutte contre le réchauffement climatique. Les différents membres de notre association participent à des efforts bénévoles, à des initiatives éducatives ainsi qu’à des campagnes de sensibilisation."
+    },
+    "join-us" : {
+      "title" : "Comment nous rejoindre ?",
+      "text" : "Notre équipe étant composée principalement d’élèves de première et de terminale, nous avons besoin de l’aide de nouveaux élèves qui auraient possiblement plus de temps libre.\nNous sommes ouverts à toute proposition de projet (venant d’élèves comme d’externes), et accueillons les bénévoles de tout âge pour nous aider dans nos activités !\n"
+    },
+    "help-us" : {
+      "title" : "Comment nous aider ?",
+      "text" : "Pour nous soutenir, vous pouvez participer bénévolement aux différentes activités proposées par le club, ou encore donner aux différentes associations que nous mettons en avant. Vous pouvez choisir de donner à l’association que vous souhaitez, et ce suivant les différentes thématiques que nous soutenons (éducation, aides locales, enfance, actions en dehors du Japon, environnement, animaux).  "
+    },
+    "take-action": {
+      "title": "S'engager !"
+    }
+  },
+  "focus-pages" : {
+    "message": "Faire une différence",
+    "education" : {
+      "title" : "Éducation",
+      "subtitle" : "Notre Engagement",
+      "text" : "Une cause nous tenant particulièrement à cœur est l’entraide envers les élèves défavorisés. Nous proposons de les aider notamment grâce à du tutorat, des dons de fournitures scolaires ou encore en les accompagnant dans les démarches de demande de bourse. Nos efforts permettent ainsi à ces étudiants d'avoir plus d'autonomie tout en améliorant leur accès à une éducation de qualité.",
+      "message": "Devenez donateur auprès de nos partenaires et soutenez une bonne education pour tous !"
+    },
+    "children" : {
+      "title" : "Enfants",
+      "subtitle" : "Notre Engagement",
+      "text" : "Nous souhaitons également aider les enfants vivant dans des environnements instables, n’ayant pas accès à une éducation, à des soins de santé ou encore à une alimentation équilibrée et qualitative. En leur fournissant un soutien sous forme de programmes éducatifs, de mentorat et d’espaces sûrs, nous pouvons les aider à développer des compétences essentielles et à gagner en confiance. En leur garantissant l’accès aux soins de santé et un soutien émotionnel approprié, nous favorisons leur bien-être. Nos efforts pourront permettre de briser le cycle de la pauvreté et ainsi de créer un avenir meilleur pour tous.\n\nAfin de pouvoir concrétiser nos objectifs, nous avons collaboré à plusieurs reprises avec l’association UNICEF. Grâce à plusieurs actions, dont la vente de gâteaux maisons, nous avons pu récolter 70 190 Yens à leur profit. Ces dons ont permis à L'UNICEF de fournir une aide cruciale aux enfants vulnérables du monde entier. \n",
+      "message": "Devenez donateur auprès de nos partenaires et aidez les enfants dans le besoin !"
+    },
+    "environment" : {
+      "title" : "Environnement",
+      "subtitle" : "Notre Engagement",
+      "text" : "La protection de l'environnement est essentielle au bien-être de notre planète. Nous sommes confrontés à des défis tels que la pollution, la destruction des habitats naturels et le changement climatique. Dans l’optique de diminuer ces risques, il est impératif de prendre part à des actions dans la lutte environnementale. Des projets simples comme réduire la consommation d’énergie et soutenir les produits respectueux de l’environnement peuvent avoir un impact significatif. Travaillons ensemble pour créer un monde plus sain et plus durable pour les générations futures !",
+      "message": "Devenez donateur auprès de nos partenaires et preservez notre planète !"
+    },
+    "outside-of-japan" : {
+      "title" : "En dehors du Japon",
+      "subtitle" : "Notre Engagement",
+      "text" : "Conscients que les efforts humanitaires ne présentent pas de frontières, nous étendons nos actions au-delà du Japon. Nous collaborons avec des organisations internationales pour soutenir des causes mondiales telles que les secours en cas de catastrophe, lutter contre la pauvreté, et faciliter l’accès à l’éducation dans les pays en voie de développement. Notre objectif est de contribuer à un monde plus juste et plus solidaire.\n\nC’est pourquoi, en 2024, nous avons organisé une opération de collecte de livres et de jouets à reverser à l’association Shapla Neer, visant à aider les communautés défavorisées en Asie du Sud.\n",
+      "message": "Devenez donateur auprès de nos partenaires et aidez les personnes dans le besoin tout autour du globe !"
+    },
+    "locals" : {
+      "title" : "Pour les Japonais",
+      "subtitle" : "Notre Engagement",
+      "text" : "Il est important pour nous d’aider les Japonais dans le besoin. Nos efforts pour aider ceux dans le besoin sont animés par le désir d’impacter positivement la société, la rendre plus équitable. En apportant notre soutien, nous pouvons ainsi offrir espoir et assistance dans les moments difficiles.\n\nAu cours de l’année, nous avons organisé des campagnes pour collecter des articles de première nécessité dans l’établissement, mais également participé à l’initiative de la Tokyo Spring Homeless Patrol. Cette association organise des distributions de repas et de produits de première nécessité aux sans-abri. Grâce à notre participation à leurs patrouilles du mercredi, nous pouvons contribuer directement à fournir un soutien indispensable aux personnes sans abri.\n",
+      "message": "Devenez donateur auprès de nos partenaires et aidez les communautés locales dans le besoin !"
+    },
+    "animals" : {
+      "title" : "Animaux",
+      "subtitle" : "Notre Engagement",
+      "text" : "Il nous semble également essentiel d'œuvrer à la protection des animaux. En effet, ils sont confrontés à des menaces telles que la destruction de leur habitat, la pollution et l’exploitation causées des activités humaines.\nLa préservation des habitats est essentielle à la protection des animaux. La conservation des zones naturelles, telles que les forêts ou les océans, permet de garantir à la faune sauvage des lieux où elle peut prospérer tout en maintenant l’équilibre des écosystèmes et de la biodiversité.\nLa prévention de la cruauté et de l’exploitation est un autre aspect crucial dans la protection animalière. Ainsi, il nous semble important de plaider en faveur de lois plus strictes sur le bien-être animal, de soutenir les organisations de sauvetage mais aussi de promouvoir des pratiques sans cruauté.\nLes actions individuelles comptent également. Adopter des animaux dans des refuges, soutenir des projets de conservation de la faune sauvage et choisir des produits sans cruauté peuvent tous faire la différence.\nEn fin de compte, la protection des animaux est essentielle à la santé des écosystèmes et au bien-être de notre planète. En préservant les habitats, en prévenant la cruauté et en promouvant un traitement éthique, nous pouvons créer un monde où les animaux sont des membres appréciés de notre communauté mondiale.\n",
+      "message": "Devenez donateur auprès de nos partenaires et aidez les animaux dans le besoin !"
+    },
+    "take-action": "S'engager !"
+  },
+  "focus-areas" : {
+    "title": "Domaines Principaux",
+    "education" : {
+      "title" : "Éducation",
+      "description" : "Opportunités éducatives pour les étudiants défavorisés grâce à des cours particuliers, des dons de fournitures scolaires et des bourses"
+    },
+    "children" : {
+      "title" : "Enfants",
+      "description" : "Aider les enfants vivant dans des environnements instables qui n'ont pas accès à l'éducation, aux soins de santé et à une alimentation nutritive"
+    },
+    "environment" : {
+      "title" : "Environnement",
+      "description" : "Travailler ensemble pour créer un monde plus sain et plus durable pour les générations futures"
+    },
+    "outside-of-japan" : {
+      "title" : "Hors du Japon",
+      "description" : "Collaborer avec des organisations internationales pour soutenir des causes mondiales telles que l'aide en cas de catastrophe, la réduction de la pauvreté et le soutien éducatif dans les pays en développement"
+    },
+    "locals" : {
+      "title" : "Communautés locales",
+      "description" : "Aider ceux qui en ont le plus besoin dans nos communautés"
+    },
+    "animals" : {
+      "title" : "Animaux",
+      "description" : "Protéger et aider les animaux confrontés à des menaces telles que la destruction de leur habitat, la pollution et l'exploitation due aux activités humaines."
+    },
+    "more": "Plus d'informations"
+  },
+  "take-action": {
+    "title": "S'engager !",
+    "education" : {
+      "section-title": "Éducation",
+      "box1" : {
+        "title" : "Birthday Donation",
+        "link" : "https://ec.philanthropy.or.jp/products/detail/27?birthday",
+        "link-text" : "Faire un don",
+        "text" : "Soutenez les initiatives éducatives qui permettent aux jeunes esprits de s'épanouir. Votre contribution permet d'offrir des bourses et des ressources aux étudiants dans le besoin, favorisant ainsi l'émergence de futurs leaders et innovateurs. Rejoignez-nous pour créer un avenir plus lumineux."
+      },
+      "box2" : {
+        "title" : "Learning for all",
+        "link" : "https://learningforall.or.jp/support-4-en/",
+        "link-text" : "Faire un don",
+        "text" : "Learning for all a pour mission de veiller à ce que chaque enfant ait accès à une éducation de qualité, quel que soit son milieu d'origine. Votre don contribue à lever les barrières et à apporter un soutien vital aux élèves défavorisés. Participez au mouvement visant à rendre l'éducation accessible à tous."
+      },
+      "box3" : {
+        "title" : "CWAJ",
+        "link" : "https://cwaj.org/donation/",
+        "link-text" : "Faire un don",
+        "text" : "Investissez dans l'avenir de l'éducation et de l'enracinement des femmes. Les bourses et les programmes du CWAJ offrent aux femmes des opportunités cruciales de poursuivre leurs rêves académiques. Faites un don aujourd'hui pour soutenir la prochaine génération de femmes leaders et de personnes capables de changer les choses."
+      }
+    },
+    "environment" : {
+      "section-title": "Environnement",
+      "box1" : {
+        "title" : "WWF",
+        "link" : "https://wwf.panda.org/",
+        "link-text" : "Faire un don",
+        "text" : "Rejoignez le WWF dans la lutte pour la protection des espèces et des habitats les plus vulnérables de notre planète. Votre soutien permet de financer des projets de conservation essentiels dans le monde entier. Aidez-nous à construire un avenir durable pour les hommes et la nature."
+      },
+      "box2" : {
+        "title" : "JWCS",
+        "link" : "https://www.jwcs.org/en/donation/",
+        "link-text" : "Faire un don",
+        "text" : "Protégez la faune et les paysages naturels uniques du Japon en soutenant la JWCS. Vos dons contribuent directement aux efforts de conservation et à la défense des espèces menacées. Devenez un gardien de la nature dès aujourd'hui."
+      },
+      "box3" : {
+        "title" : "FoE",
+        "link" : "https://foejapan.org/en/",
+        "link-text" : "Faire du bénévolat",
+        "text" : "FoE défendent des solutions durables et équitables pour relever les défis environnementaux. Votre contribution permet de soutenir des mouvements et des initiatives locales qui promeuvent la justice environnementale. Soyez à nos côtés pour préserver notre planète pour les générations futures."
+      }
+    },
+    "children" : {
+      "section-title": "Enfants",
+      "box1" : {
+        "title" : "UNICEF",
+        "link" : "https://www.unicef.org/",
+        "link-text" : "Faire un don",
+        "text" : "L'UNICEF se consacre à l'amélioration de la vie des enfants dans le monde entier grâce à des initiatives dans les domaines de la santé, de l'éducation et de la protection. Votre don peut faire une différence significative en garantissant que chaque enfant ait la chance de grandir en sécurité, en bonne santé et de recevoir une éducation. Rejoignez-nous pour créer un monde meilleur pour les enfants du monde entier."
+      },
+      "box2" : {
+        "title" : "Birthday Donation",
+        "link" : "https://ec.philanthropy.or.jp/products/list?category_id=15&birthday",
+        "link-text" : "Faire un don",
+        "text" : "Soutenez le bien-être et le développement des enfants au Japon. Votre générosité finance des programmes qui fournissent des soins essentiels, une éducation et des services de soutien aux enfants dans le besoin. Aidez-nous à développer le potentiel de chaque enfant."
+      },
+      "box3" : {
+        "title" : "Association soutenant les enfants du Japon",
+        "link" : "https://congrant.com/project/npojcsa/173/form/step1",
+        "link-text" : "Faire un don",
+        "text" : "Le Comité japonais pour l'UNICEF (JCSA) travaille sans relâche pour soutenir les enfants vulnérables à la fois dans le pays et dans le monde. Votre don permet de fournir des ressources et des services essentiels pour améliorer la vie des enfants. Ensemble, nous pouvons avoir un impact durable sur l'avenir des enfants."
+      }
+    },
+    "locals" : {
+      "section-title": "Communautés locales",
+      "box1" : {
+        "title" : "Croix Rouge Japon",
+        "link" : "https://www.jrc.or.jp/english/Faire un don/",
+        "link-text" : "Faire un don",
+        "text": "La Croix-Rouge japonaise s'est engagée à fournir des secours d'urgence et un soutien communautaire dans tout le Japon. Votre don permet d'apporter une aide vitale aux personnes touchées par les catastrophes et les crises. Rejoignez-nous dans notre mission d'assistance et de soutien aux communautés dans le besoin."
+      },
+      "box2" : {
+        "title" : "AAR",
+        "link" : "https://aarjapan.gr.jp/en/Faire un don/",
+        "link-text" : "Faire un don",
+        "text": "L'AAR Japon apporte une aide humanitaire et un soutien aux personnes touchées par les conflits, les catastrophes et la pauvreté. Votre contribution nous permet d'offrir des services vitaux et de promouvoir la dignité humaine. Soutenez-nous dans nos efforts pour faire la différence dans la vie de ceux qui en ont le plus besoin."
+      },
+      "box3" : {
+        "title" : "Tokyo Spring Homeless Patrol",
+        "link" : "https://www.facebook.com/TSHpatrol/",
+        "link-text" : "Facebook",
+        "text": "Aidez à fournir des fournitures essentielles et un soutien aux sans-abri de Tokyo. Tokyo Spring Homeless Patrol travaille directement dans les rues pour aider les personnes les plus vulnérables. \nVotre soutien peut apporter du réconfort et de l'espoir aux personnes sans domicile."
+      }
+    },
+    "outside-of-japan" : {
+      "section-title": "Hors du Japon",
+      "box1" : {
+        "title" : "Shapla Neer",
+        "link" : "https://www.shaplaneer.org/english/",
+        "link-text" : "Faire un don",
+        "text": "Soutenez la mission de SHAPLA NEER qui consiste à renforcer les communautés en Asie du Sud par le biais du développement durable et de l'aide humanitaire. \nVotre don contribue à améliorer les conditions de vie et à promouvoir l'autonomie des personnes défavorisées. Rejoignez-nous pour avoir un impact durable au-delà des frontières."
+      },
+      "box2" : {
+        "title" : "Save the children",
+        "link" : "https://support.savethechildren.org/site/Donation2?df_id=1620&1620.donation=form1",
+        "link-text" : "Faire un don",
+        "text": "Save the Children œuvre dans le monde entier pour que chaque enfant ait la possibilité de s'épanouir. \nVotre don apporte un soutien crucial aux programmes de santé, d'éducation et de protection des enfants dans le besoin. Ensemble, nous pouvons offrir à chaque enfant un avenir plein de possibilités."
+      },
+      "box3" : {
+        "title" : "Restos du coeur",
+        "link" : "https://dons.restosducoeur.org/particulier/~mon-don?_cv=1",
+        "link-text" : "Faire un don",
+        "text": "Aidez à combattre la faim et la pauvreté en France en soutenant Les Restos du Cœur. \nVotre don permet de fournir des repas, des abris et des services de soutien aux personnes dans le besoin. Rejoignez-nous dans notre mission d'apporter chaleur et espoir aux plus démunis."
+      }
+    },
+    "animals" : {
+      "section-title": "Animaux",
+      "box1" : {
+        "title" : "Animal Donation",
+        "link" : "https://www.animaldonation.org/Faire un don/",
+        "link-text" : "Faire un don",
+        "text": "Votre contribution à Animal Donation permet de sauver et d'améliorer la vie des animaux dans le besoin. \nSoutenez les refuges, les opérations de sauvetage et les programmes de soins qui offrent une seconde chance à nos amis à fourrure. Rejoignez-nous dans notre mission de créer un monde meilleur pour les animaux."
+      },
+      "box2" : {
+        "title" : "Zamaneko",
+        "link" : "https://zamaneko.stores.jp/",
+        "link-text" : "Faire un don",
+        "text": "Soutenez le Cat Cafe Zamaneko dans ses efforts pour prendre soin des chats errants et abandonnés et les réintroduire dans leur foyer. \nVotre don permet de fournir de la nourriture, des soins médicaux et de l'amour aux chats dans le besoin. Aidez-nous à trouver des foyers pour ces adorables félins."
+      },
+      "box3" : {
+        "title" : "Chibawan",
+        "link" : "https://chibawan.net/Faire du bénévolat",
+        "link-text" : "Faire du bénévolat",
+        "text": "Chibawan se consacre au sauvetage et à la réhabilitation des animaux abandonnés et errants au Japon. \nVotre soutien permet de fournir des soins médicaux, des abris et des services d'adoption aux animaux dans le besoin. Faites du bénévolat ou faites un don aujourd'hui pour faire une différence dans la vie de nos amis à quatre pattes."
+      }
+    }
+  },
+  "footer": {
+    "title": "Club Humanitaire du LFIT",
+    "description": "Fondé en 2014 par une équipe de lycéens motivés lors d’une collecte de dons pour l’UNICEF, le Club Humanitaire du LFIT est une association qui se consacre au développement d’un esprit de communauté et d’entraide au sein du lycée.",
+    "focus-area": {
+      "title": "Domaines Principaux",
+      "education" : "Éducation",
+      "children" :"Enfants",
+      "environment" : "Environnement",
+      "outside-of-japan" : "Hors du Japon",
+      "locals" : "Communautés locales",
+      "animals" : "Animaux"
+    },
+    "take-action": {
+      "title": "S'engager !"
+    },
+    "contact": {
+      "title": "Contact",
+      "insta": "Instagram"
+    }
+  }
+}
