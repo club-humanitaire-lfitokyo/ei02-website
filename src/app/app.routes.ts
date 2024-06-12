@@ -1,4 +1,4 @@
-import { Routes } from '@angular/router';
+import { Routes, ExtraOptions } from '@angular/router';
 import {HomeComponent} from "./home/home.component";
 import {AboutUsComponent} from "./about-us/about-us.component";
 import {FocusAreasComponent} from "./focus-areas/focus-areas.component";
@@ -9,6 +9,8 @@ import {LocalsComponent} from "./focus-areas/pages/locals/locals.component";
 import {ChildrenComponent} from "./focus-areas/pages/children/children.component";
 import {AnimalsComponent} from "./focus-areas/pages/animals/animals.component";
 import {TakeActionComponent} from "./take-action/take-action.component";
+
+
 
 export const routes: Routes = [
   {path: '', component: HomeComponent},
